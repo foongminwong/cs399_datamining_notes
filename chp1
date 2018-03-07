@@ -1,0 +1,32 @@
+# Chapter 1: Introduction to Decision Trees
+Four Layer Model:
+- second layer in our four layers model is dedicated to the machine learning tasks, such as: Classification, Clustering, Anomaly Detection, Regression etc.
+
+Taxomony of Data Mining Methods
+- See the image
+
+Supervised Methods
+- prediction methods referred to as supervised learning
+
+Decision tree:
+- a predictive model which can be used to represent both classifiers and regression models
+- a hierarchical model of decisions and consequences
+- used for classification trees
+- to analyze
+- a classifier expressed as a recursive partition of the instance space.
+- Internal nodes are represented as circles, whereas leaves are denoted as triangles
+- ranges of values must be mutually exclusive and complete
+- disjointness and completeness(ensure each data instance is mapped to one instance)
+- tree complexity measured by (1) the total number of nodes (2) total number of leaves (3) tree depth (4)number of attributes used.
+
+
+Classification Trees
+- an exploratory technique
+- classification trees are graphically represented as hierarchical structures
+
+
+Questions:
+1. Difference between supervised and unsupervised learning (methods used in machine learning
+
+
+
