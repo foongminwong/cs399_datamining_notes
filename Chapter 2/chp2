@@ -1,0 +1,19 @@
+# Chapter 2: Training Decision Trees
+2.1 Learning:
+- an intuitive description of training in decision trees
+- Task T, Experience E and Performance measure E
+
+2.2 Preparing the Training Set
+- Training set: data used to train the model
+- 3 attributes of input data:(1) numeric (2) ordinal (categorical) (3) nominal
+
+2.3 Training the Decision Tree
+- It begins by finding the best horizontal split and the best vertical split
+- decision stump: single node decision tree
+- binary tree - amount of internal nodes (i.e. non-leaf nodes) equals the number of leaves minus 1.
+- 
+
+
+Questions:
+1. Misclassification errors of horizontal split and vertical split in decision trees
+2. Complicated decision trees might have a limited generalization capabilities,
