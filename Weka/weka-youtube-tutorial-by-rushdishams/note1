@@ -1,0 +1,14 @@
+#Weka Tutorial 01: ARFF 101 (Data Preprocessing)
+
+Source: 
+https://www.youtube.com/watch?v=gd5HwYYOz2U
+
+Notes:
+- Relation section (@relation)
+- Attribute section (@attribute) - specify data type
+	Data Types: (can be nominal (e.g: String) or numeric (e.g: temperature, humidity) ) 
+	(1) real - real number 
+	(2) boolean - TRUE, FALSE
+- Data section 
+
+Questions:
