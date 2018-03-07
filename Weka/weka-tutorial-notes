@@ -1,0 +1,26 @@
+#Weka
+Video: https://www.youtube.com/watch?v=m7kpIBGEdkI
+(Source: https://www.youtube.com/watch?v=m7kpIBGEdkI)
+- thinking machines
+- machine learning - form of artificial intelligence
+- computer trains itself
+- human learning data analysis
+- hybrid knowledge system
+- direct relationship (higher is better) vs indirect relationship (lower is better)
+- logistic regression (highly regarded classic statistical techniques to make prediction)
+- choose your classifier
+- cross validation
+- predictive analysis
+- remove data/ attribute that you don't need
+- prediction accuracy
+- visualize tree 
+- multilayerperceptron ==> neural network
+- nuemric/nominal class
+- SMOreg  -Support Vector machine 
+
+
+
+Question:
+1. How to interpret the classifier output
+
+
