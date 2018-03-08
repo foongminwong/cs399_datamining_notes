@@ -1,0 +1,30 @@
+# Chapter 3: A Generic Algorithm for Top-Down Induction of Decision Trees
+3.1 Training Set
+- top-down inducing algorithm for decision tree
+- (Training set size and classification accuracy are positively correlated) the predictive performance of a decision tree is expected to be poor if the training set used to train the model is too small.
+- attributes/field/variable/feature - 2 types: (1) nominal (2) numeric
+
+3.2 Definition of the Classification Problem
+- 
+
+3.3 Induction Algorithm
+- an inducer (also known as learner), is an entity that obtains a training set and forms a model that generalizes the relationship between the input attributes and the target attribute.
+- DT: decision tree inducer 
+- DT(S): classification tree which was induced by performing DT on a training set S.
+- DT(S)(xq): prediction 
+
+3.4 Probability Estimation in Decision Trees
+- tuple: a finite ordered list
+
+3.4.1 Laplace Correction ?
+
+3.4.2 No Match?
+
+3.5 Algorithm Framework for Decision Trees
+- Decision tree inducers are algorithms that automatically construct a decision tree from a given dataset
+- goal is to find the optimal decision tree by minimizing the generalization error
+- building the optimal decision tree from decision tables is known to be NP-hard
+- constructing a minimal binary tree with respect to the expected number of tests required for classifying an unseen instance is NP-complete
+- optimal decision tree algorithms is feasible only in small problems.
+- heuristics methods are required for solving the problem
+- CART stands for Classification and Regression Trees
