@@ -3,7 +3,8 @@ Spring 2018: CS399 - Independent Study (Data mining) with Dr.Jack Tan
 
 Book: Data Mining with Decision Trees Theory and Applications (2nd Edition) by Lior Rokach and Oded Maimon
 Other resources:
-(1) https://www.ibm.com/developerworks/opensource/library/os-weka1/index.html?ca=drs-
-(2) https://www.youtube.com/user/WekaMOOC
+https://www.ibm.com/developerworks/opensource/library/os-weka1/index.html?ca=drs-
+
+https://www.youtube.com/user/WekaMOOC
 
 Link (almost done): https://uweccsdatamining101weka.wordpress.com/ 
