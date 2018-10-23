@@ -9,4 +9,4 @@ https://www.ibm.com/developerworks/opensource/library/os-weka1/index.html?ca=drs
 
 https://www.youtube.com/user/WekaMOOC
 
-Link (almost done): https://uweccsdatamining101weka.wordpress.com/ 
+Link : https://uweccsdatamining101weka.wordpress.com/ 
